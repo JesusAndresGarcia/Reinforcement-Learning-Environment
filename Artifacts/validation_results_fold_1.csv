@@ -1,0 +1,2 @@
+learning_rate,gamma,ent_coef,timesteps,rl_return
+0.0003,0.99,0.1,20000,-0.3959754583496403
